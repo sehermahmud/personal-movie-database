@@ -3,7 +3,7 @@
 }
 
 html {
-  font-family: sans-serif;
+  font-family: 'Merienda One', cursive;
 }
 
 body {
@@ -27,7 +27,6 @@ header {
   left: 0;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
   z-index: 5;
-  font-family: 'Merienda One', cursive;
 }
 
 main {
@@ -49,7 +48,6 @@ header button {
   border-radius: 6px;
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.26);
   cursor: pointer;
-  font-family: 'Merienda One', cursive;
 }
 
 header button:hover,
@@ -123,7 +121,6 @@ input:focus {
   background: white;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  font-family: 'Merienda One', cursive;
 }
 
 .modal {
@@ -269,7 +266,6 @@ input:focus {
   background-color: pink;
   color: white;
   text-align: center;
-  font-family: 'Merienda One', cursive;
 }
 
 main {

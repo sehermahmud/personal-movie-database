@@ -258,6 +258,34 @@ input:focus {
   }
 }
 
+/* .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: pink;
+  color: white;
+  text-align: center;
+} */
+
+/* .footer {
+  position: fixed;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2.5rem;
+  background: palevioletred;
+  top: 0;
+  left: 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+} */
+
+/* main {
+  margin-bottom: 5rem;
+} */
+
 .footer {
   position: fixed;
   left: 0;
@@ -269,7 +297,7 @@ input:focus {
 }
 
 main {
-  margin-bottom: 5rem;
+  margin-bottom: 10rem;
 }
 
 .github {
